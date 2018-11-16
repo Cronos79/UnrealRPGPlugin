@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CronoARPG-5884.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealSourceGit\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Projects\Genesis\Plugins\CronoARPG\Intermediate\Build\Win64\UE4Editor\Development\CronoARPG\Module.CronoARPG.cpp.obj"
+"D:\Projects\Genesis\Plugins\CronoARPG\Intermediate\Build\Win64\UE4Editor\Development\CronoARPG\Module.CronoARPG.gen.cpp.obj"
+"D:\UnrealSourceGit\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"D:\Projects\Genesis\Plugins\CronoARPG\Intermediate\Build\Win64\UE4Editor\Development\CronoARPG\UE4Editor-CronoARPG-5884.lib"

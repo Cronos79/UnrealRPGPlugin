@@ -1,0 +1,25 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "EngineVersion": "4.21.0",
+  "FriendlyName": "CronoARPG",
+  "Description": "Action RPG system",
+  "Category": "Other",
+  "CreatedBy": "Matt Brock",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EnabledByDefault": true,
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "CronoARPG",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

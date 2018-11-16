@@ -1,0 +1,90 @@
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef CRONOARPG_GameplayEffect_generated_h
+#error "GameplayEffect.generated.h already included, missing '#pragma once' in GameplayEffect.h"
+#endif
+#define CRONOARPG_GameplayEffect_generated_h
+
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_RPC_WRAPPERS
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUGameplayEffect(); \
+	friend struct Z_Construct_UClass_UGameplayEffect_Statics; \
+public: \
+	DECLARE_CLASS(UGameplayEffect, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/CronoARPG"), NO_API) \
+	DECLARE_SERIALIZER(UGameplayEffect)
+
+
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_INCLASS \
+private: \
+	static void StaticRegisterNativesUGameplayEffect(); \
+	friend struct Z_Construct_UClass_UGameplayEffect_Statics; \
+public: \
+	DECLARE_CLASS(UGameplayEffect, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/CronoARPG"), NO_API) \
+	DECLARE_SERIALIZER(UGameplayEffect)
+
+
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UGameplayEffect(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameplayEffect) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGameplayEffect); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGameplayEffect); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UGameplayEffect(UGameplayEffect&&); \
+	NO_API UGameplayEffect(const UGameplayEffect&); \
+public:
+
+
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UGameplayEffect(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UGameplayEffect(UGameplayEffect&&); \
+	NO_API UGameplayEffect(const UGameplayEffect&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGameplayEffect); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGameplayEffect); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameplayEffect)
+
+
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_PRIVATE_PROPERTY_OFFSET
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_12_PROLOG
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_PRIVATE_PROPERTY_OFFSET \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_RPC_WRAPPERS \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_INCLASS \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_PRIVATE_PROPERTY_OFFSET \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_INCLASS_NO_PURE_DECLS \
+	CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID CronoARPGProject_Plugins_CronoARPG_Source_CronoARPG_Public_GameplayEffects_GameplayEffect_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
